@@ -1,0 +1,6 @@
+gcc  -Wall ULAI01_1608.C  -I"/e/000 ortak/kitap/003 Diger Konular/001 elektronik/mcc daq/C KODU/derlenebilmis dosyalar C"   -L"/e/000 ortak/kitap/003 Diger Konular/001 elektronik/mcc daq/C KODU/derlenebilmis dosyalar C"   -l:cbw64.lib -o ULAI01_1608.exe
+---------------------------
+gcc ULAI01.C Utilities.c   -I..   -L..   -l:cbw64.lib   -o ULAI01.exe
+
+---------------------------------------------------------------------------
+ gcc ULAI01.C  Utilities.c -I"/e/000 ortak/kitap/003 Diger Konular/001 elektronik/mcc daq/C KODU/derlenebilmis dosyalar C"   -L"/e/000 ortak/kitap/003 Diger Konular/001 elektronik/mcc daq/C KODU/derlenebilmis dosyalar C"   -l:cbw64.lib -o ULAI01.exe
